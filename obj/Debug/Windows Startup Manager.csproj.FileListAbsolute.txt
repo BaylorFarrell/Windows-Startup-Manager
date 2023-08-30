@@ -1,0 +1,10 @@
+C:\Users\Baylor\source\repos\Windows Startup Manager\Windows Startup Manager\bin\Debug\Windows Startup Manager.exe.config
+C:\Users\Baylor\source\repos\Windows Startup Manager\Windows Startup Manager\bin\Debug\Windows Startup Manager.exe
+C:\Users\Baylor\source\repos\Windows Startup Manager\Windows Startup Manager\bin\Debug\Windows Startup Manager.pdb
+C:\Users\Baylor\source\repos\Windows Startup Manager\Windows Startup Manager\obj\Debug\Windows Startup Manager.csproj.AssemblyReference.cache
+C:\Users\Baylor\source\repos\Windows Startup Manager\Windows Startup Manager\obj\Debug\Windows_Startup_Manager.Form1.resources
+C:\Users\Baylor\source\repos\Windows Startup Manager\Windows Startup Manager\obj\Debug\Windows_Startup_Manager.Properties.Resources.resources
+C:\Users\Baylor\source\repos\Windows Startup Manager\Windows Startup Manager\obj\Debug\Windows Startup Manager.csproj.GenerateResource.cache
+C:\Users\Baylor\source\repos\Windows Startup Manager\Windows Startup Manager\obj\Debug\Windows Startup Manager.csproj.CoreCompileInputs.cache
+C:\Users\Baylor\source\repos\Windows Startup Manager\Windows Startup Manager\obj\Debug\Windows Startup Manager.exe
+C:\Users\Baylor\source\repos\Windows Startup Manager\Windows Startup Manager\obj\Debug\Windows Startup Manager.pdb
